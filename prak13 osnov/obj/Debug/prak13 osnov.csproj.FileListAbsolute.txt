@@ -1,0 +1,7 @@
+C:\Users\Bikmacs\Documents\prak13 osnov\prak13 osnov\bin\Debug\prak13 osnov.exe.config
+C:\Users\Bikmacs\Documents\prak13 osnov\prak13 osnov\bin\Debug\prak13 osnov.exe
+C:\Users\Bikmacs\Documents\prak13 osnov\prak13 osnov\bin\Debug\prak13 osnov.pdb
+C:\Users\Bikmacs\Documents\prak13 osnov\prak13 osnov\obj\Debug\prak13 osnov.csproj.AssemblyReference.cache
+C:\Users\Bikmacs\Documents\prak13 osnov\prak13 osnov\obj\Debug\prak13 osnov.csproj.CoreCompileInputs.cache
+C:\Users\Bikmacs\Documents\prak13 osnov\prak13 osnov\obj\Debug\prak13 osnov.exe
+C:\Users\Bikmacs\Documents\prak13 osnov\prak13 osnov\obj\Debug\prak13 osnov.pdb
